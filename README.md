@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SiyaZozi
 - 👀 I’m interested in ... Anything Development
-- 🌱 I’m currently learning ... Wordpress and React
+- 🌱 I’m currently learning ... Wordpress, React & Next.js
 - 💞️ I’m looking to collaborate on ... Any Project
 - 📫 How to reach me ... You can't, I'm in Space
 
